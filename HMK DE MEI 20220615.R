@@ -1,4 +1,3 @@
-#test
 require(RODBC)
 require(dplyr) #set of commands for SQL translation into R
 require(tidyr) #chaining together operations
